@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidExpert</string>
+
+    <string name="text_tittleMovie">Jhon Wick 4</string>
+    <string name="text_date_movie">02 October 2017</string>
+    <string name="text_overview">Overview</string>
+    <string name="text_review">Reviews</string>
+    <string name="text_videos">Trailers</string>
+    <string name="text_language">Movie Language</string>
+    <string name="text_title_favorite">Favorite</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
